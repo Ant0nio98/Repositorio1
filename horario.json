@@ -1,0 +1,119 @@
+{
+    "horario": [
+        {
+            "dia": "Lunes",
+            "modulos": [
+                {
+                    "nombre" : "SSII"
+                },
+                {
+                    "nombre" : "SSII"
+                },
+                {
+                    "nombre" : "SSII"
+                },
+                {
+                    "nombre" : "LMSGI"
+                },
+                {
+                    "nombre" : "LMSGI"
+                },
+                {
+                    "nombre" : "FOL"
+                }
+            ]
+        },
+        {
+            "dia": "Martes",
+            "modulos": [
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "BDD"
+                },
+                {
+                    "nombre" : "BDD"
+                },
+                {
+                    "nombre" : "ENDES"
+                },
+                {
+                    "nombre" : "ENDES"
+                }
+            ]
+        },
+        { 
+            "dia": "miercoles", 
+            "modulos" : [
+                {
+                    "nombre" : "FOL"
+                },
+                {
+                    "nombre" : "FOL"
+                },
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "BDD"
+                },
+                {
+                    "nombre" : "BDD"
+                }
+            ]
+        },
+        { 
+            "dia": "jueves", 
+            "modulos" : [
+                {
+                    "nombre" : "ING"
+                },
+                {
+                    "nombre" : "ING"
+                },
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "PROG"
+                },
+                {
+                    "nombre" : "LMSGI"
+                },
+                {
+                    "nombre" : "LMSGI"
+                }
+            ]
+        },
+        {
+            "dia": "viernes", 
+            "modulos" : [
+                {
+                    "nombre" : "BDD"
+                },
+                {
+                    "nombre" : "BDD"
+                },
+                {
+                    "nombre" : "ENDES"
+                },
+                {
+                    "nombre" : "SSII"
+                },
+                {
+                    "nombre" : "SSII"
+                },
+                {
+                    "nombre" : "SSII"
+                }
+            ]
+        }
+    ]
+}
